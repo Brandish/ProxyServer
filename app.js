@@ -4,5 +4,5 @@ var http = require('http'),
 // Create your proxy server and set the target in the options.
 httpProxy.createProxyServer( 
   {
-    target:'http://brandish.com'
+    target:'https://brandish.com'
   }).listen(8000);
