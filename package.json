@@ -1,0 +1,19 @@
+{
+  "name": "ProxyServer",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brandish/ProxyServer.git"
+  },
+  "description": "HTTP proxying for the masses",
+  "author": "Faridh Mendoza <faridh.mendoza@gmail.com>",
+  "maintainers": [],
+  "main": "app.js",
+  "dependencies": {
+    "http-proxy": "^1.14.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
